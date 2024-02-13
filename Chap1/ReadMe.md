@@ -75,6 +75,5 @@
          var c1 = ???;
          String s = a1 + b1 + c1;
          System.out.println(s);
-      
           }
       }
