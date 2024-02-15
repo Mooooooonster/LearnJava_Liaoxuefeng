@@ -43,6 +43,7 @@ public class IfCondition {
         } else {
             System.out.println("s1 != s2");
         }
+
         // 执行语句s1.equals(s2)时，如果变量s1为null，会报【NullPointerException空指针异常】
         // String s1 = null;
         // if (s1.equals("hello")) {

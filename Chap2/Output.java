@@ -33,7 +33,5 @@ public class Output {
         System.out.printf("%.4f%%\n", d); // 3.1416%
         // 更多格式化内容可参考官方文档：
         // https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Formatter.html#syntax
-
-        System.out.println("--------------------- 输入 --------------------");
     }
 }

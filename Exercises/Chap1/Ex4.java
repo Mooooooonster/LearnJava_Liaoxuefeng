@@ -7,6 +7,7 @@ public class Ex4 {
         var a1 = (char) a;
         var b1 = (char) b;
         var c1 = (char) c;
+        System.out.println(""+a1+b1+c1);
         System.out.println(String.valueOf(a1)+b1+c1);
     }
 }
