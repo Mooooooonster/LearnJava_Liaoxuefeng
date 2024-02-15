@@ -6,7 +6,8 @@ public class CommandLineParam {
             if ("-version".equals(arg)) { //如果输入时传递的参数为-version，则会打印v1.0
                 System.out.println("v 1.0");
                 break;
-        // 如何解析命令行参数需要由程序自己实现
+        // 如何解析命令行参数在Terminal里运行下述命令实现
+        // java CommandLineParam -version
             }
         }
     }

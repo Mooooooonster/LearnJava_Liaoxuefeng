@@ -25,7 +25,7 @@ public class SortForArray {
 
         System.out.println("------------------ 通过标准库JDK进行排序 ---------------------");
         // Java的标准库内置了排序功能，通过调用JDK提供的Arrays.sort()实现
-        Arrays.sort(ns); // 排序修改了函数本身！！
+        Arrays.sort(ns); // 排序修改了变量本身！！
         System.out.println(Arrays.toString(ns));
         // 如果是字符串，内存中字符串本身的存储位置不会改变，但数组中每个元素指向的存储位置变了
 

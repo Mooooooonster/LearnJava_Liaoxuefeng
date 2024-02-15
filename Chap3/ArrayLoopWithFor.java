@@ -17,6 +17,5 @@ public class ArrayLoopWithFor {
 
         System.out.println("-------------- 通过Java标准库打印 -----------------");
         System.out.println(Arrays.toString(ns));
-
     }
 }
